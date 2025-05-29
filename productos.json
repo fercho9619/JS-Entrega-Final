@@ -1,0 +1,22 @@
+[
+    { "id": 1, "nombre": "Camiseta", "precio": 2000, "imagen": "img/camiseta.jpg" },
+    { "id": 2, "nombre": "Pantalón", "precio": 3500, "imagen": "img/pantalon.jpg" },
+    { "id": 3, "nombre": "Zapatillas", "precio": 6000, "imagen": "img/zapatillas.jpg" },
+    { "id": 4, "nombre": "Gorra", "precio": 1500, "imagen": "img/gorra.jpg" },
+    { "id": 5, "nombre": "Campera", "precio": 8000, "imagen": "img/campera.jpg" },
+    { "id": 6, "nombre": "Short", "precio": 1800, "imagen": "img/short.jpg" },
+    { "id": 7, "nombre": "Remera Deportiva", "precio": 2200, "imagen": "img/remera-deportiva.jpg" },
+    { "id": 8, "nombre": "Medias", "precio": 500, "imagen": "img/medias.jpg" },
+    { "id": 9, "nombre": "Mochila", "precio": 4000, "imagen": "img/mochila.jpg" },
+    { "id": 10, "nombre": "Bufanda", "precio": 1200, "imagen": "img/bufanda.jpg" },
+    { "id": 11, "nombre": "Guantes", "precio": 1300, "imagen": "img/guantes.jpg" },
+    { "id": 12, "nombre": "Ojotas", "precio": 900, "imagen": "img/ojotas.jpg" },
+    { "id": 13, "nombre": "Jean", "precio": 3800, "imagen": "img/jean.jpg" },
+    { "id": 14, "nombre": "Chaleco", "precio": 5000, "imagen": "img/chaleco.jpg" },
+    { "id": 15, "nombre": "Reloj", "precio": 7500, "imagen": "img/reloj.jpg" },
+    { "id": 16, "nombre": "Lentes de sol", "precio": 3200, "imagen": "img/lentes.jpg" },
+    { "id": 17, "nombre": "Cinturón", "precio": 1100, "imagen": "img/cinturon.jpg" },
+    { "id": 18, "nombre": "Bolso", "precio": 4200, "imagen": "img/bolso.jpg" },
+    { "id": 19, "nombre": "Sandalias", "precio": 2500, "imagen": "img/sandalias.jpg" },
+    { "id": 20, "nombre": "Camisa", "precio": 3000, "imagen": "img/camisa.jpg" }
+]
