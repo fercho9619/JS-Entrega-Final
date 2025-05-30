@@ -12,7 +12,7 @@ async function cargarProductos() {
   }
 }
 
-// Renderizar productos en el HTML
+// Carga de productos en el HTML
 function renderizarProductos() {
   const contenedor = document.getElementById("productos-container");
   contenedor.innerHTML = ""; // limpiar contenido previo

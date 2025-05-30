@@ -19,6 +19,13 @@ main {
   flex-wrap: wrap;
 }
 
+#productos-container{
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+  width: calc(100% - 350px);
+}
+
 #productos-container .producto {
   background-color: white;
   border: 1px solid #ccc;
@@ -46,6 +53,12 @@ main {
 }
 
 #carrito-container {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  z-index: 1000;
+  max-height: 80vh;
+  overflow-y: auto;
   background-color: white;
   border: 1px solid #ccc;
   border-radius: 8px;
